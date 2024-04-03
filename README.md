@@ -1,6 +1,34 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 191 - More AI and layoffs
+Published: March 31, 2024
+- [DJI Mic 2](https://www.amazon.com/gp/aw/d/B0CFZX734J/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Ryan Burgess
+- [The Gentlemen](https://www.netflix.com/title/81437051) - Ryan Burgess
+- [Valley Silicon - Steelcase Work Tents](https://www.steelcase.com/products/pods/pod-tent/#steelcase-work-tents-collection) - Jem Young
+- [Kiasmos - Flown](https://kiasmos.bandcamp.com/album/flown) - Stacy London
+- [Four Tet - Three](https://fourtet.bandcamp.com/album/three) - Stacy London
+- [The Finals](https://store.steampowered.com/app/2073850/THE_FINALS/) - Augustus Yuan
+- [Quote - Let Go or Be Dragged](https://www.tiktok.com/discover/let-go-or-be-dragged) - Cole Turner
+
+
+## Episode 190 - At the bar with Whiskey Web & Whatnot
+Published: March 28, 2024
+
+
+## Episode 189 - Why does Wordpress dominate the web?
+Published: March 17, 2024
+- [WPMovies.dev](https://wpmovies.dev/) - Matias Ventura
+- [Vesuvius challenge](https://scrollprize.org/) - Matias Ventura
+- [John Cleese on Creativity In Management](https://www.youtube.com/watch?v=Pb5oIIPO62g) - Luis Herranz
+- [American Kingpin](https://www.amazon.com/American-Kingpin-Criminal-Mastermind-Behind/dp/1591848148?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Luis Herranz
+- [Lessons in Chemistry](https://tv.apple.com/us/show/lessons-in-chemistry/umc.cmc.40yycssgxelw4zur8m2ilmvyx) - Fabian Kaegy
+- [DJI Osmo 6](https://www.amazon.com/DJI-Smartphone-Stabilizer-Extension-ShotGuides/dp/B0B7XD7R43?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Ryan Burgess
+- [Frontend Masters Boost](https://frontendmasters.com/blog/) - Ryan Burgess
+- [Take care of managers in a hybrid world](https://www.axios.com/2022/09/29/take-care-of-middle-managers-in-the-hybrid-world) - Jem Young
+- [Six Nations: Full Contact](https://www.netflix.com/title/81647358) - Jem Young
+
+
 ## Episode 188 - Unlocking WordPress: Exploring the powers of WPGraphQL
 Published: March 3, 2024
 - [Elgato Stream Deck](https://www.amazon.com/Elgato-Stream-Deck-Mini-customizable/dp/B07DYRS1WH/ref=asc_df_B07DYRS1WH?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Jason Bahl

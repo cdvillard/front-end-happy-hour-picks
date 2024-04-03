@@ -1,5 +1,102 @@
 [
   {
+    "episode": "191 - More AI and layoffs",
+    "published": "March 31, 2024",
+    "picks": [
+      {
+        "title": "DJI Mic 2",
+        "url": "https://www.amazon.com/gp/aw/d/B0CFZX734J/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "The Gentlemen",
+        "url": "https://www.netflix.com/title/81437051",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Valley Silicon - Steelcase Work Tents",
+        "url": "https://www.steelcase.com/products/pods/pod-tent/#steelcase-work-tents-collection",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Kiasmos - Flown",
+        "url": "https://kiasmos.bandcamp.com/album/flown",
+        "from": "Stacy London"
+      },
+      {
+        "title": "Four Tet - Three",
+        "url": "https://fourtet.bandcamp.com/album/three",
+        "from": "Stacy London"
+      },
+      {
+        "title": "The Finals",
+        "url": "https://store.steampowered.com/app/2073850/THE_FINALS/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Quote - Let Go or Be Dragged",
+        "url": "https://www.tiktok.com/discover/let-go-or-be-dragged",
+        "from": "Cole Turner"
+      }
+    ]
+  },
+  {
+    "episode": "190 - At the bar with Whiskey Web & Whatnot",
+    "published": "March 28, 2024",
+    "picks": []
+  },
+  {
+    "episode": "189 - Why does Wordpress dominate the web?",
+    "published": "March 17, 2024",
+    "picks": [
+      {
+        "title": "WPMovies.dev",
+        "url": "https://wpmovies.dev/",
+        "from": "Matias Ventura"
+      },
+      {
+        "title": "Vesuvius challenge",
+        "url": "https://scrollprize.org/",
+        "from": "Matias Ventura"
+      },
+      {
+        "title": "John Cleese on Creativity In Management",
+        "url": "https://www.youtube.com/watch?v=Pb5oIIPO62g",
+        "from": "Luis Herranz"
+      },
+      {
+        "title": "American Kingpin",
+        "url": "https://www.amazon.com/American-Kingpin-Criminal-Mastermind-Behind/dp/1591848148?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325",
+        "from": "Luis Herranz"
+      },
+      {
+        "title": "Lessons in Chemistry",
+        "url": "https://tv.apple.com/us/show/lessons-in-chemistry/umc.cmc.40yycssgxelw4zur8m2ilmvyx",
+        "from": "Fabian Kaegy"
+      },
+      {
+        "title": "DJI Osmo 6",
+        "url": "https://www.amazon.com/DJI-Smartphone-Stabilizer-Extension-ShotGuides/dp/B0B7XD7R43?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Frontend Masters Boost",
+        "url": "https://frontendmasters.com/blog/",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Take care of managers in a hybrid world",
+        "url": "https://www.axios.com/2022/09/29/take-care-of-middle-managers-in-the-hybrid-world",
+        "from": "Jem Young"
+      },
+      {
+        "title": "Six Nations: Full Contact",
+        "url": "https://www.netflix.com/title/81647358",
+        "from": "Jem Young"
+      }
+    ]
+  },
+  {
     "episode": "188 - Unlocking WordPress: Exploring the powers of WPGraphQL",
     "published": "March 3, 2024",
     "picks": [
