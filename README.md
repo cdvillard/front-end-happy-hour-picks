@@ -1,6 +1,35 @@
 # Front End Happy Hour Picks
 Each episode of the [Front End Happy Hour](http://frontendhappyhour.com) podcast our panelists share interesting picks.
 
+## Episode 195 - Revisiting Server-Driven UI
+Published: May 26, 2024
+- [The Sympathizer](https://www.hbo.com/the-sympathizer) - Sherman Chen
+- [University Challenge](https://www.bbc.co.uk/programmes/b006t6l0) - Sherman Chen
+- [Classified - Luke's View](https://open.spotify.com/album/6T2kT5B08MBR8hinkL33IG) - Ryan Burgess
+- [Demand oriented schema design](https://www.apollographql.com/docs/technotes/TN0027-demand-oriented-schema-design/) - Augustus Yuan
+- [POV Camera](https://pov.camera/) - Augustus Yuan
+- [Wallism](https://wallism.com/) - Cole Turner
+
+
+## Episode 194 - Serverless AI
+Published: May 12, 2024
+- [Le Samouraï](https://www.imdb.com/title/tt0062229/) - Rita Kozlov
+- [AI Therapist](https://github.com/ErickLuis00/therapistai-cf) - Rita Kozlov
+- [Sugar](https://tv.apple.com/us/show/sugar/umc.cmc.4r6q7tdquewehwvb3rzl0k3dt) - Ryan Burgess
+- [Borderless](https://www.youtube.com/watch?v=XLItXCpBJvQ&list=PLZvRVbBCVbGrNTNpilwwSoSKIEXh70DzC) - Ryan Burgess
+- [Valve Steam Deck](https://www.amazon.com/Handheld-Console-Silicone-Protector-Tempered-PC/dp/B0C3C2CGQQ?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Cole Turner
+
+
+## Episode 193 - Implementing authentication in your app
+Published: April 28, 2024
+- [Patagonia Black Hole Gear Tote](https://www.patagonia.com/product/black-hole-gear-tote-bag-61-liters/196924045774.html) - Braden Sidoti
+- [Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html  ) - Ryan Burgess
+
+
+## Episode 192 - Do you need to work more than 9 to 5 to get promoted?
+Published: April 14, 2024
+
+
 ## Episode 191 - More AI and layoffs
 Published: March 31, 2024
 - [DJI Mic 2](https://www.amazon.com/gp/aw/d/B0CFZX734J/?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325) - Ryan Burgess

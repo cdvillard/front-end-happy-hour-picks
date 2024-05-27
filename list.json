@@ -1,5 +1,93 @@
 [
   {
+    "episode": "195 - Revisiting Server-Driven UI",
+    "published": "May 26, 2024",
+    "picks": [
+      {
+        "title": "The Sympathizer",
+        "url": "https://www.hbo.com/the-sympathizer",
+        "from": "Sherman Chen"
+      },
+      {
+        "title": "University Challenge",
+        "url": "https://www.bbc.co.uk/programmes/b006t6l0",
+        "from": "Sherman Chen"
+      },
+      {
+        "title": "Classified - Luke's View",
+        "url": "https://open.spotify.com/album/6T2kT5B08MBR8hinkL33IG",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Demand oriented schema design",
+        "url": "https://www.apollographql.com/docs/technotes/TN0027-demand-oriented-schema-design/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "POV Camera",
+        "url": "https://pov.camera/",
+        "from": "Augustus Yuan"
+      },
+      {
+        "title": "Wallism",
+        "url": "https://wallism.com/",
+        "from": "Cole Turner"
+      }
+    ]
+  },
+  {
+    "episode": "194 - Serverless AI",
+    "published": "May 12, 2024",
+    "picks": [
+      {
+        "title": "Le Samouraï",
+        "url": "https://www.imdb.com/title/tt0062229/",
+        "from": "Rita Kozlov"
+      },
+      {
+        "title": "AI Therapist",
+        "url": "https://github.com/ErickLuis00/therapistai-cf",
+        "from": "Rita Kozlov"
+      },
+      {
+        "title": "Sugar",
+        "url": "https://tv.apple.com/us/show/sugar/umc.cmc.4r6q7tdquewehwvb3rzl0k3dt",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Borderless",
+        "url": "https://www.youtube.com/watch?v=XLItXCpBJvQ&list=PLZvRVbBCVbGrNTNpilwwSoSKIEXh70DzC",
+        "from": "Ryan Burgess"
+      },
+      {
+        "title": "Valve Steam Deck",
+        "url": "https://www.amazon.com/Handheld-Console-Silicone-Protector-Tempered-PC/dp/B0C3C2CGQQ?&_encoding=UTF8&tag=frontendhappy-20&linkCode=ur2&linkId=6fdef16ea2e6c0827b59305b22a9d1da&camp=1789&creative=9325",
+        "from": "Cole Turner"
+      }
+    ]
+  },
+  {
+    "episode": "193 - Implementing authentication in your app",
+    "published": "April 28, 2024",
+    "picks": [
+      {
+        "title": "Patagonia Black Hole Gear Tote",
+        "url": "https://www.patagonia.com/product/black-hole-gear-tote-bag-61-liters/196924045774.html",
+        "from": "Braden Sidoti"
+      },
+      {
+        "title": "Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies",
+        "url": "https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html  ",
+        "from": "Ryan Burgess"
+      }
+    ]
+  },
+  {
+    "episode": "192 - Do you need to work more than 9 to 5 to get promoted?",
+    "published": "April 14, 2024",
+    "picks": []
+  },
+  {
     "episode": "191 - More AI and layoffs",
     "published": "March 31, 2024",
     "picks": [
